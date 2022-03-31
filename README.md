@@ -124,7 +124,6 @@
     - 모달
     - splash animation
     - 버튼 활성화
-    - (무한스크롤)
 
 <br>
 <div align="center">
@@ -137,13 +136,16 @@
 
 ## 🧑🏻‍💻 최재영 - `문서화 및 UI Interection`
 
-- 스타일링 및 기능 구현
-- 농촌 뉴스 API 구현 (xml to json)
-- 페이지 (HomeFeed, Profile) 스타일링 및 리팩토링
+- 팀 내 프로젝트 매니징 및 워크스페이스 마련
+- 프로젝트 전반적인 스타일링 및 리팩토링 구현 
 - 이미지 슬라이더 구현
 - 메뉴 및 모달 기능 구현
 - profile 액자, 갤러리 구분 보기 구현
-- 그 외 팀원들이 작성한 코드 [CodeReview](https://www.notion.so/herman94/bab66f3303a34cfb83fbbbb51f9764cb?v=39de68baa42e46b4ade4337131e5e650) 통해 숙지 및 구현
+- [게시글 Read](https://www.notion.so/herman94/1-Project-Read-796700b35b13403b994122569982454c)
+- [게시글 Delete](https://www.notion.so/herman94/2-Project-Delete-6396bde0ee1647d09b1fd0816db8d66f)
+- [게시글 Create](https://www.notion.so/herman94/3-Project-Create-8b88529738f24a799552e0599dd1f5f6)
+- [게시글 Update](https://www.notion.so/herman94/4-Project-Update-51a61943e0f64fe19ee53cc8cef8dc7e)
+- [그 외 프로젝트 리팩토링 진행](https://www.notion.so/herman94/Refactroing-1-9bd858801d7342c693d00d4a0cc97f06)
 
 <br>
 
